@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    padding: 10px;
+    background:#0000aa;
+    color:#ffffff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Index */
+nav{
+    background: #000;
+    color: #ffffff;
+}
+
+.car{
+    float: left;
+    width: 25%;
+    padding: 15px;
+}
+
+.car img{
+    max-width: 120px;
+}
+
+.car .detail{
+    margin-top: 10px;
+}
+.car .detail p span.key{
+    font-weight: bold;
+}
+
+.car .detail p.description{
+    margin-top: 10px;
+}
+
+.car button{
+    margin-top: 10px;
+}
+
+/* reservation */
+table img{
+    max-width: 100px;
+}
+
+/* checkout */
+.caption{
+    margin: 15px 0;
+}
+
+.inputContainer{
+    margin-top: 5px;
+}
+
+.inputContainer label{
+    width: 110px;
+    display: inline-block;
+}
+
+.inputContainer input{
+    padding:5px;
+}

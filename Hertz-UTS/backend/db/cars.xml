@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <data>
+        <id>1</id>
+        <category>sedan</category>
+        <availability>true</availability>
+        <brand>BMW</brand>
+        <model>320i</model>
+        <year>2018</year>
+        <mileage>7000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>250</price_per_day>
+        <description>This model is car of the year.</description>
+        <image>./backend/car-images/320i.jpg</image>
+    </data>
+    <data>
+        <id>2</id>
+        <category>sedan</category>
+        <availability>false</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <year>2013</year>
+        <mileage>10000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>120</price_per_day>
+        <description>Cutting edge engineering.</description>
+        <image>./backend/car-images/Camry.jpg</image>
+    </data>
+    <data>
+        <id>3</id>
+        <category>SUV</category>
+        <availability>true</availability>
+        <brand>Toyota</brand>
+        <model>Captiva</model>
+        <year>2018</year>
+        <mileage>12000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>150</price_per_day>
+        <description>The most affordable SUV on the market.</description>
+        <image>./backend/car-images/Captiva.jpg</image>
+    </data>
+     <data>
+        <id>4</id>
+        <category>Jeep</category>
+        <availability>true</availability>
+        <brand>American</brand>
+        <model>Cherokee</model>
+        <year>2019</year>
+        <mileage>15000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>100</price_per_day>
+        <description>The best American vehicle.</description>
+        <image>./backend/car-images/Cherokee.jpg</image>
+    </data>
+     <data>
+        <id>5</id>
+        <category>sedan</category>
+        <availability>false</availability>
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <year>2012</year>
+        <mileage>7000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>130</price_per_day>
+        <description>Reimagined to ignite curiosity.</description>
+        <image>./backend/car-images/Civic.jpg</image>
+    </data>
+     <data>
+        <id>6</id>
+        <category>Jeep</category>
+        <availability>true</availability>
+        <brand>Suzuki</brand>
+        <model>Jimny</model>
+        <year>2017</year>
+        <mileage>20000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>6</seats>
+        <price_per_day>300</price_per_day>
+        <description>The coolest car on market.</description>
+        <image>./backend/car-images/Jimny.jpg</image>
+    </data>
+     <data>
+        <id>7</id>
+        <category>sedan</category>
+        <availability>false</availability>
+        <brand>Hyundai</brand>
+        <model>Sonata</model>
+        <year>2018</year>
+        <mileage>10000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>350</price_per_day>
+        <description>State-of-the-art technology.</description>
+        <image>./backend/car-images/Sonata.jpg</image>
+    </data>
+     <data>
+        <id>8</id>
+        <category>SUV</category>
+        <availability>true</availability>
+        <brand>Nissan</brand>
+        <model>X-trail</model>
+        <year>2020</year>
+        <mileage>4000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>6</seats>
+        <price_per_day>210</price_per_day>
+        <description>Good interior space.</description>
+        <image>./backend/car-images/X-trail.jpg</image>
+    </data>
+     <data>
+        <id>9</id>
+        <category>Sedan</category>
+        <availability>true</availability>
+        <brand>Volkswagen</brand>
+        <model>Golf</model>
+        <year>2009</year>
+        <mileage>3000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>4</seats>
+        <price_per_day>90</price_per_day>
+        <description>This car won many awards.</description>
+        <image>./backend/car-images/Golf.jpg</image>
+    </data>
+    <data>
+        <id>10</id>
+        <category>Sedan</category>
+        <availability>true</availability>
+        <brand>Mercedes</brand>
+        <model>GLC</model>
+        <year>2020</year>
+        <mileage>25000</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>6</seats>
+        <price_per_day>390</price_per_day>
+        <description>High quality luxury car.</description>
+        <image>./backend/car-images/GLC.jpg</image>
+    </data>
+</root>
